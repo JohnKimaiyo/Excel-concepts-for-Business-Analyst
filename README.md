@@ -6,3 +6,6 @@
 6.	Forecast Sheets, 
 7.	LINEAR, SLOPE,
 8.	INTERCEPT,
+
+
+my portfolio website https://johnkimaiyo.vercel.app/
